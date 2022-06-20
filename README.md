@@ -109,5 +109,8 @@ public class Client {
 ```
 
 ### 单例模式（Singleton）
+
+lanhan
+https://blog.csdn.net/OOC_ZC/article/details/78477565
 ## 结构型模式（Structural Patterns）
 ## 行为型模式（Behavioral Patterns）
